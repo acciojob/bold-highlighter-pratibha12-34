@@ -11,3 +11,4 @@ function return_normal() {
     el.style.color = 'rgb(0, 0, 0)';
   });
 }
+
